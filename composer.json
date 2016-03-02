@@ -1,7 +1,5 @@
 {
 	"name": "infrajs/layer-reload",
-	"license": "GPL3",
-	"autoload": {
-		"psr-4": { "infrajs\\layer\\reload\\": "/" }
-	}
+	"homepage":"https://github.com/infrajs/layer-reload",
+	"license": "GPL3"
 }
